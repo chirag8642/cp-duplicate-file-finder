@@ -1,0 +1,23 @@
+{
+  "name": "cp-duplicate-file-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "cp-duplicate": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "=Chirag Patel",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^14.2.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2",
+    "sinon": "^7.5.0"
+  }
+}
